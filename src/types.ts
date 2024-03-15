@@ -14,7 +14,7 @@ export interface ParkingSpotPointFeature {
   是否免费: string
   类型: string
   编号: string
-  几小时免费: string
+  多少分钟免费: string
   节假日免费: boolean
   社交平台链接: {
     text: string
@@ -37,6 +37,10 @@ export interface ParkingSpotPointProps {
    */
   type: string
   /**
+   * 类型颜色
+   */
+  typeColor: string
+  /**
    * 免费/收费
    */
   isFree: string
@@ -48,7 +52,7 @@ export interface ParkingSpotPointProps {
   /**
    * 前几个小时免费
    */
-  freeHours: string
+  freeMinutes: string
   /**
    * 社交链接
    */

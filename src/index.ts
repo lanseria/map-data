@@ -64,7 +64,7 @@ if (res.code === 0) {
         // @ts-expect-error
         typeColor: colorMap[fields.类型],
         holiday: fields.节假日免费,
-        freeHours: fields.几小时免费,
+        freeMinutes: fields.多少分钟免费,
         isFree: fields.是否免费,
         // eslint-disable-next-line ts/ban-ts-comment
         // @ts-expect-error
