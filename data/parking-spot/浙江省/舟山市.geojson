@@ -776,6 +776,447 @@
           30.01922
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000044",
+        "desc": "定海海洲新天地地下停车场",
+        "type": "地下",
+        "typeColor": "#1D4099",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NEmMXzrPW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.10565,
+          30.01655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000045",
+        "desc": "沈家门宝岛宾馆停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NEcfL99Lc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29502,
+          29.94669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000046",
+        "desc": "定海公园地下停车场",
+        "type": "地下",
+        "typeColor": "#1D4099",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NE4kOn8iT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.10255,
+          30.01465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000047",
+        "desc": "定海百悦生活广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "60",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NDUfrcKM6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.09882,
+          30.01834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000048",
+        "desc": "沈家门半升洞临时停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NDKfrpy00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31003,
+          29.9461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000049",
+        "desc": "沈家门东海中路附近停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "15",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NDBvFdfiL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29019,
+          29.94733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000050",
+        "desc": "定海东门交通综合体停车场",
+        "type": "室内/有顶棚",
+        "typeColor": "#51B945",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NDrCGtpdY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11069,
+          30.01896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000051",
+        "desc": "定海文化广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NDimz0ff0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.10569,
+          30.01781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000052",
+        "desc": "东港恒尊大厦停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "10",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/ND8X7o05w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32428,
+          29.97606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000053",
+        "desc": "东港杉杉观云大厦停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCZycvpFf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32208,
+          29.97673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000054",
+        "desc": "普陀水街停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCQ5X51sy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27563,
+          29.97198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000055",
+        "desc": "普陀商会大厦",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "60",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCGivrkFG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.3231,
+          29.97641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000056",
+        "desc": "东港天海置业停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "60",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCwT5DLlL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32088,
+          29.97604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000057",
+        "desc": "杉杉普陀天地地面停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCnosDv7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32272,
+          29.9771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000058",
+        "desc": "普陀长途客运中心停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NCe9IFHlr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2826,
+          29.9677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000059",
+        "desc": "杉杉普陀天地地下停车场",
+        "type": "地下",
+        "typeColor": "#1D4099",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NC51wk3Mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.3229,
+          29.97712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000060",
+        "desc": "沈家门海中洲商业广场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "10",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NBVwztDPv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29826,
+          29.9504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000061",
+        "desc": "东港京汇广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NBLxumdIv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31856,
+          29.97748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000062",
+        "desc": "普陀体育馆停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NBCOzhR7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31248,
+          29.96574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000063",
+        "desc": "沈家门墩头码头停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NBvw03seA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27277,
+          29.94394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403160000064",
+        "desc": "舟山医院停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "30",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/NBvuE3OPX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.20807,
+          29.99633
+        ]
+      }
     }
   ]
 }
