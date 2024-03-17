@@ -31,13 +31,13 @@ jobs:
 
       - name: Get Data
         run: pnpm dev
+        env: # Or as an environment variable
+          APPTOKEN: ${{ secrets.APPTOKEN }}
+          PERSONALBASETOKEN: ${{ secrets.PERSONALBASETOKEN }}
+          TABLE_ID: ${{ secrets.TABLE_ID }}
 
       - name: Update all data
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update all data'
           add: data
-        env: # Or as an environment variable
-          APPTOKEN: ${{ secrets.APPTOKEN }}
-          PERSONALBASETOKEN: ${{ secrets.PERSONALBASETOKEN }}
-          TABLE_ID: ${{ secrets.TABLE_ID }}
