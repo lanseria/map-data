@@ -1217,6 +1217,26 @@
           29.99633
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403170000065",
+        "desc": "翡丽湾门口停车位",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "免费",
+        "color": "#50C240",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/O5odHdKoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.20516,
+          30.00924
+        ]
+      }
     }
   ]
 }
