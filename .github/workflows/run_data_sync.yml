@@ -1,0 +1,39 @@
+name: Data Sync
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    name: Sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - uses: pnpm/action-setup@v3
+        name: Install pnpm
+        with:
+          version: 8
+          run_install: true
+
+      - name: Check Data
+        run: pnpm check
+
+      - name: Get Data
+        run: pnpm dev
+
+      - name: Update all data
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update all data'
+          add: data
