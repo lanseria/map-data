@@ -38,7 +38,7 @@
     "lint": "eslint .",
     "dev": "esno src/index.ts",
     "typecheck": "tsc --noEmit",
-    "check": "cp .env .env.local &&esno src/check.ts",
+    "check": "esno src/check.ts",
     "up": "taze major -I"
   },
   "dependencies": {
