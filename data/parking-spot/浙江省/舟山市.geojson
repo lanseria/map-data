@@ -1237,6 +1237,47 @@
           30.00924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403170000066",
+        "desc": "沈家门芦西停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "60",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O5opCkM3t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.24403,
+          29.96715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403180000067",
+        "desc": "舟山市政府免费停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "免费",
+        "color": "#50C240",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/O5xeRk4uT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.20278,
+          29.98699
+        ]
+      }
     }
   ]
 }
