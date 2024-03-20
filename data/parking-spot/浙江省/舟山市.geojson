@@ -1278,6 +1278,26 @@
           29.98699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403190000068",
+        "desc": "金岛菜场对面停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "免费",
+        "color": "#50C240",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/O5It4do69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19596,
+          30.00378
+        ]
+      }
     }
   ]
 }
