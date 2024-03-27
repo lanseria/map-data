@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "P202403110000003",
-        "desc": "桃湾新村6区对面停车场",
-        "type": "露天/无顶棚",
-        "typeColor": "#EB78BA",
-        "isFree": "免费",
-        "color": "#50C240",
-        "marker": "parking",
-        "link": "http://m.weibo.cn/status/5011753226210891?"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          122.19699,
-          30.00891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "P202403110000005",
         "desc": "江海商务广场地下停车场",
         "type": "地下",
@@ -39,6 +19,26 @@
         "coordinates": [
           122.202,
           30.00016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403130000008",
+        "desc": "金岛菜场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/O6Wpgq33E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19572,
+          30.00373
         ]
       }
     },
