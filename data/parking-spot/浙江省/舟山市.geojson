@@ -4,6 +4,26 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "P202403110000003",
+        "desc": "桃湾新村6区对面停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "http://m.weibo.cn/status/5011753226210891?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19699,
+          30.00891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "P202403110000005",
         "desc": "江海商务广场地下停车场",
         "type": "地下",
@@ -1289,13 +1309,75 @@
         "isFree": "免费",
         "color": "#50C240",
         "marker": "parking",
-        "link": "https://weibo.com/7848646852/O5It4do69"
+        "link": "https://weibo.com/7848646852/O740A37W1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           122.19596,
           30.00378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403270000069",
+        "desc": "桃湾新村6区门口两停车位",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "免费",
+        "color": "#50C240",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/O7436n0K9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19544,
+          30.00497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403280000070",
+        "desc": "沈家门浦西钻石广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O5Qf13PxY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.24082,
+          29.97164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202403280000071",
+        "desc": "东港海中洲国际广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O6iQ5p41i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31179,
+          29.96982
         ]
       }
     }
