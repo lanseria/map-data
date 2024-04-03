@@ -1380,6 +1380,69 @@
           29.96982
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202404020000072",
+        "desc": "浦西鑫材国际广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O74ikxblG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23582,
+          29.97345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202404020000073",
+        "desc": "浦西和津广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "60",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O7xOXkPiI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2504,
+          29.97501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202404020000074",
+        "desc": "科来华国际家居广场停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "freeMinutes": "120",
+        "isFree": "收费",
+        "color": "#C24740",
+        "marker": "parking",
+        "link": "https://weibo.com/7897247016/O7PjRBlfp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22439,
+          29.97598
+        ]
+      }
     }
   ]
 }
