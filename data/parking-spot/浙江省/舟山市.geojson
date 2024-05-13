@@ -1443,6 +1443,26 @@
           29.97598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P202405120000075",
+        "desc": "档案馆停车场",
+        "type": "露天/无顶棚",
+        "typeColor": "#EB78BA",
+        "isFree": "免费",
+        "color": "#50C240",
+        "marker": "parking",
+        "link": "https://weibo.com/7848646852/OdVuNpFT4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.20742,
+          29.999
+        ]
+      }
     }
   ]
 }
