@@ -28,7 +28,7 @@
         "desc": "江海商务广场地下停车场",
         "type": "地下",
         "typeColor": "#1D4099",
-        "freeMinutes": "120",
+        "freeMinutes": "60",
         "isFree": "收费",
         "color": "#C24740",
         "marker": "parking",
